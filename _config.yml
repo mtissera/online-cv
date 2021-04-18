@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Maximiliano Tissera | Online Resume
+title: Maximiliano Tissera | Resume
 url: 'https://maximiliano.rocks'
 baseurl: '/' #change it according to your repository name
 description: My resume on a Jekyll theme hosted in github. I'm not a developer, just a tech guy
