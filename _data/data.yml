@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maximiliano Tissera
-    tagline: UNIX Admin | Solution Architect 
+    tagline: Linux SysAdmin | Solutions Architect 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -112,7 +112,7 @@ projects:
     assignments:
       - title: Linux Professional Institute LPIC-1 (System Administrator)
         link: "https://www.lpi.org/our-certifications/lpic-1-overview"
-        tagline: "Completion Date: 2019-11-04 | Valid until: 2024-11-04"
+        tagline: "Valid until: 2024-11-04"
 
       - title: "AWS Cloud Practitioner Essentials (Second Edition): AWS Integrated Services"
         link: "https://aws.amazon.com/es/certification/certified-cloud-practitioner/"
@@ -136,11 +136,11 @@ projects:
 
       - title: "Linux System Engineer (Linux Institute)"
         link: "https://www.carreralinux.com.ar/linux-system-engineer-2/"
-        tagline: ""
+        tagline: "Date: November 2020"
 
       - title: "Ethical Hacker Expert (Linux Institute)"
         link: "https://www.carreralinux.com.ar/ethical-hacker-certified/"
-        tagline: ""
+        tagline: "Date: December 2020"
 
 
 publications:
@@ -169,20 +169,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Containers & Orchestraitors   
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Virtualization & Cloud Infraestructure
         level: 98%
 
-      - name: Angular
+      - name: Monitoring Tools
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: IaC (Terraform, Ansible, etc)
+        level: 98%        
+
+      - name: Web Servers & Proxies
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Scripting
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Databases 
         level: 60%
