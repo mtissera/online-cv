@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Maximiliano Tissera
-    tagline: UNIX Administrator | Solution Architect 
+    tagline: UNIX Admin | Solution Architect 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -34,6 +34,9 @@ sidebar:
         level: Advanced
 
     interests:
+      - item: Computers (of course)
+        link:
+
       - item: Electronics
         link:
 
@@ -46,15 +49,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Telecommunications engineer with 15 years of experience in the IT world. 
+      Linux certified professional, with more than 400 servers deployed.
+
 education:
     - degree: Telecommunications Engineer 
-      university: Universidad Blas Pascal 
+      university: Universidad Blas Pascal
       time: 2007 - 2012
       details: 
 
@@ -63,16 +63,15 @@ education:
       time: 2007 - 2010
       details: 
     
-    - degree: Electronics Engineer (incomplete)
-      university: Universidad Tecnológica Nacional
-      time: 2003 - 2007
+    - degree: Electronics Technician
+      university: instituto J.A. Balseiro 
+      time: 1998 - 2003
       details: 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
+    - role: Solution Architect
+      time: 2020 - Present
+      company: Procom IT Solutions
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -84,9 +83,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Unix & VoIP Specialist
+      time: 2017 - 2020
+      company: Procom IT Solutions
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,31 +106,42 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Certifications & Courses 
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A list of my certifications and courses (not a full list)
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Linux Professional Institute LPIC-1 (System Administrator)
+        link: "https://www.lpi.org/our-certifications/lpic-1-overview"
+        tagline: "Completion Date: 2019-11-04 | Valid until: 2024-11-04"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: "AWS Cloud Practitioner Essentials (Second Edition): AWS Integrated Services"
+        link: "https://aws.amazon.com/es/certification/certified-cloud-practitioner/"
+        tagline: "Completion Date: 2019-12-03"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Asterisk Certified Essentials 
+        link: "https://www.sangoma.com/training/asterisk/"
+        tagline: "Completion Date: February 2021"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Issabel Certified Advanced Engineer
+        link: "https://www.issabel.com/academy/icae/"
+        tagline: "Certification # ICAE081903A001"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "Amazon Web Services: Architecting on AWS (IT College)"
+        link: "https://aws.amazon.com/training/classroom/architecting-on-aws/"
+        tagline: "Date: 2020-03-03"
+
+      - title: "Amazon Web Services: Technical Essentials (IT College)"
+        link: "https://aws.amazon.com/training/classroom/architecting-on-aws/"
+        tagline: "Date: 2020-03-02"
+
+      - title: "Linux System Engineer (Linux Institute)"
+        link: "https://www.carreralinux.com.ar/linux-system-engineer-2/"
+        tagline: ""
+
+      - title: "Ethical Hacker Expert (Linux Institute)"
+        link: "https://www.carreralinux.com.ar/ethical-hacker-certified/"
+        tagline: ""
+
 
 publications:
     title: Publications
@@ -176,6 +186,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
