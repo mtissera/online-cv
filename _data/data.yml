@@ -50,8 +50,9 @@ career-profile:
     title: Career Profile
     summary: |
       Telecommunications engineer with 15 years of experience in the IT world. 
-      Linux certified professional, with more than 400 servers deployed.
-
+      Linux & VoIP certified professional, with solid self-learning ability.
+      Results-driven person, with repeated success in guiding IT projects from start to finish.
+      Excellent written and oral communication skills.
 education:
     - degree: Telecommunications Engineer 
       university: Universidad Blas Pascal
@@ -71,40 +72,44 @@ education:
 experiences:
     - role: Solution Architect
       time: 2020 - Present
-      company: Procom IT Solutions
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Unix & VoIP Specialist
+      company: Procom IT Solutions S.A., Córdoba
+          - Develop, evaluate, disseminate and integrate new standards, specifications, and technologies into existing processes and methodologies.
+          - Create project scope, timelines, milestones and detail all deliverables.
+          - Responsible for Cloud governance, auditing, monitoring, planning and assessment.
+          - Analyze new and changing SaaS and PaaS solutions, technology and market trends, and determine their potential impact on the enterprise.
+          - Work with strategic customers as an advisory architect and developer on engineering solutions of significant scale/volume/complexity
+          - Develop tools to deploy, manage, monitor and troubleshoot cloud based systems on or off premises.
+          - Define the implementation phases and work with teams on execution of agreed upon technical solutions and strategies.
+          - Mentor and develop junior team members on Unix/VoIP/Cloud technologies.
+    - role: Unix & VoIP Engineer
       time: 2017 - 2020
-      company: Procom IT Solutions
+      company: Procom IT Solutions S.A., Córdoba
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Supported and troubleshot Enterprise VOIP issues (L3) for customers using Asterisk and Sangoma products.
+          - Responsible for design, implementation, & configuration of several advanced VoIP solutions: Call Center, CRM Integrations, Security.
+          - Building, maintaining, and enhancing the development, staging and production environments (+100 Linux-based servers).
+          - Experience deploying scalable web infrastructure with Apache/NGINX/PHP/Tomcat/Node.
+          - Understanding of monitoring tools and statistics: Zabbix, InfluxDB, Grafana, Prometheus.
+          - Experience with multiple VMWare vShere Clusters in multiple locations and environments.
+          - Maintains Linux system performance by performing system monitoring and analysis, and performance tuning; troubleshooting.
+          - Calmly and quickly diagnose and fix critical systems failures in high pressure situations.
+    - role: IT Manager
+      time: 2012 - 2017
+      company: Electroingeniería S.A.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Asses infrastructure and application communication channels internally and externally.
+          - Manage the development and maintenance of documentation including departmental policies, procedures, disaster recovery plans, and technical reports.
+          - Manage service provider relationships delivering data communication and other infrastructural services to the Company.
+          - Manage and supervise IT professionals (employees and contractors) working in the IT Operations area (Staff of 5+).
+          - Ensure escalated service requests & SLA’s are handled in a timely manner.
+    - role: VoIP & Network Engineer
+      time: 2018 - 2012
+      company: Electroingeniería S.A.
+      details: |
+          - Optimize network performance and reliability by maintaining hardware and software, analyzing technical issues, and ensuring availability to system users.
+          - Managed the design, installation, and management of organization-wide local area network, wide area network, network segment, and internet system.
+          - Implement VoIP System for 800+ users, across multiple locations.
+          - Designing and implementing infrastructure and application hardening methodologies (Servers, Storage, Network, Data Stores, Endpoints, Users)       
 projects:
     title: Certifications & Courses 
     intro: >
