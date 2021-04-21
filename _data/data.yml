@@ -175,7 +175,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Containers & Orchestraitors   
+      - name: Containers & Orchestrators   
         level: 98%
 
       - name: Virtualization & Cloud Infraestructure
@@ -184,7 +184,7 @@ skills:
       - name: Monitoring Tools
         level: 98%
 
-      - name: IaC (Terraform, Ansible, etc)
+      - name: VoIP Systems
         level: 98%        
 
       - name: Web Servers & Proxies
