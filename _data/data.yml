@@ -8,17 +8,17 @@ sidebar:
 
     # Profile information
     name: Maximiliano Tissera
-    tagline: Solutions Architect | Unix Engineer 
+    tagline: Solutions Architect | Linux/VoIP/Cloud Engineer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: maxi.tissera@gmail.com
     phone: on request
-    website: maximiliano.rocks #do not add http://
+    website: mtissera.com #do not add http://
     linkedin: maximiliano.tissera
     #xing: alandoe
     github: mtissera
-    telegram: mtissera # add your nickname without '@' sign
+    telegram: beloas # add your nickname without '@' sign
     gitlab:
     bitbucket:
     #twitter: '@webjeda'
@@ -65,7 +65,7 @@ education:
       details: 
     
     - degree: Electronics Technician
-      university: instituto J.A. Balseiro 
+      university: Instituto J.A. Balseiro 
       time: 1998 - 2003
       details: 
 
