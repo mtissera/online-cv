@@ -116,6 +116,10 @@ projects:
     intro: >
       A list of my certifications and courses (not a full list)
     assignments:
+      - title: AWS Certified Solutions Architect – Associate
+        link: "https://www.credly.com/badges/761b0cb3-58a5-4919-b799-584bda1f13a6/public_url"
+        tagline: "Valid until: 2025-07-21"
+
       - title: Linux Professional Institute LPIC-1 (System Administrator)
         link: "https://www.lpi.org/our-certifications/lpic-1-overview"
         tagline: "Valid until: 2024-11-04"
