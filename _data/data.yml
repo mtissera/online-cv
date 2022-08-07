@@ -21,7 +21,7 @@ sidebar:
     telegram: beloas # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    #twitter: '@webjeda'
+    #twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -77,7 +77,7 @@ experiences:
           - Work with strategic customers as an advisory architect and developer on engineering solutions of significant scale/volume/complexity
           - Develop tools to deploy, manage, monitor and troubleshoot cloud based systems on or off premises.
           - Define the implementation phases and work with teams on execution of agreed upon technical solutions and strategies.
-          - Mentor and develop junior team members on Linux/VoIP/Cloud technologies.
+          - Mentor and develop junior team members on Cloud technologies.
     - role: Linux / VoIP Engineer
       time: 2017 - 2020
       company: Procom IT Solutions
@@ -87,7 +87,7 @@ experiences:
           - Building, maintaining, and enhancing the development, staging and production environments (+100 Linux-based servers).
           - Experience deploying scalable web infrastructure with Apache/NGINX/PHP/Tomcat/Node.
           - Understanding of monitoring tools and statistics: Zabbix, InfluxDB, Grafana, Prometheus.
-          - Experience with multiple VMWare vShere Clusters in multiple locations and environments.
+          - Experience with multiple VMware vSphere Clusters in multiple locations and environments.
           - Maintains Linux system performance by performing system monitoring and analysis, and performance tuning; troubleshooting.
           - Calmly and quickly diagnose and fix critical systems failures in high pressure situations.
     - role: IT Manager
@@ -119,10 +119,6 @@ projects:
       - title: Linux Professional Institute LPIC-1 (System Administrator)
         link: "https://www.lpi.org/our-certifications/lpic-1-overview"
         tagline: "Valid until: 2024-11-04"
-
-      - title: "AWS Cloud Practitioner Essentials (Second Edition): AWS Integrated Services"
-        link: "https://aws.amazon.com/es/certification/certified-cloud-practitioner/"
-        tagline: "Completion Date: 2019-12-03"
 
       - title: Asterisk Certified Essentials 
         link: "https://www.sangoma.com/training/asterisk/"
@@ -176,16 +172,13 @@ skills:
 
     toolset:
       - name: Containers & Orchestrators   
-        level: 98%
+        level: 90%
 
       - name: Virtualization & Cloud Infraestructure
         level: 98%
 
       - name: Monitoring Tools
-        level: 98%
-
-      - name: VoIP Systems
-        level: 98%        
+        level: 98%    
 
       - name: Web Servers & Proxies
         level: 95%
